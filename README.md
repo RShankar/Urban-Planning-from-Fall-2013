@@ -1,4 +1,4 @@
-Urban-Planning-from-Fall-2013
+##Urban-Planning-from-Fall-2013
 =============================
-
 Eleven Apps on Urban Planning - developed by groups of undergraduate students in engineering, arts,and urban planning. 
+During Fall 2013, professors from engineering, arts, and urban planning came together to offer three concurrent courses to students, respectively, in engineering, arts, and urban planning. We taught discipline specific material during the first half of the semester and brought together students from these disciplines to work together during the second half of the semester. There were 33 engineering, 11 urban planning, and 6 arts students in this course set. A typical group comprised of 3 from engineering, 1 from urban planning, and 1  from arts (the arts student worked on two Apps). A total of 11 Apps were developed. A group of judges drawn from the professions of engineering, film production, urban planning, and academia, evaluated student team presentations and ranked them at semester end. 
